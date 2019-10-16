@@ -5,7 +5,7 @@
 
   
 >天生我材必有用，千金散尽还复来。  
-# Creating a new branch is quick & simple.
+# Creating a old branch is quick & simple.
 >天生我材必无用，千金散尽来不来。  
 # Creating a old branch is quick & simple.
 
